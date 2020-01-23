@@ -72,7 +72,7 @@ class Solution {
 
     public static void main(String []args){
         Solution obj=new Solution();
-        int input[]={1,8,6,2,5,4,8,3,7};
+        int[] input ={1,8,6,2,5,4,8,3,7};
         int result=obj.maxArea(input);
         System.out.println(result);
     }
